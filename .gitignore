@@ -1,9 +1,9 @@
 *
 !*/
 !.gitignore
-!Assets/*.controller
-!Assets/*.prefab
-!Assets/*.unity
-!Assets/Scripts/*.cs
+!Assets/Animations/*/*.controller
+!Assets/Prefabs/*/*.prefab
+!Assets/Scenes/*.unity
+!Assets/Scripts/*/*.cs
 !Assembly-CSharp.csproj
 !Platformer.sln
